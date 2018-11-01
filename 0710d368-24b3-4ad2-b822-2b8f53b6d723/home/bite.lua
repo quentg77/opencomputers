@@ -1,6 +1,6 @@
 local A = 0;
 
-while true do 
+while A < 100 do 
     A = A+1;
-    print(os);
+    print(A);
 end
